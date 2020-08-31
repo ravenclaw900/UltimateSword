@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "ooo",
+    "ofo",
+    "ooo"
+  ],
+  "key":
+  {
+    "o":
+    {
+      "item": "minecraft:diamond"
+    },
+    "f":
+    {
+      "item": "minecraft:furnace"
+    }
+  },
+  "result":
+  {
+    "item": "ultimatesword:obsidian_forge",
+    "count": 1
+  }
+}

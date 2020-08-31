@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "facing=north,lit=false":  { "model": "ultimatesword:block/obsidian_forge" },
+        "facing=east,lit=false":   { "model": "ultimatesword:block/obsidian_forge", "y": 90 },
+        "facing=south,lit=false":   { "model": "ultimatesword:block/obsidian_forge", "y": 180 },
+        "facing=west,lit=false":   { "model": "ultimatesword:block/obsidian_forge", "y": 270 },
+        
+        "facing=north,lit=true":  { "model": "ultimatesword:block/lit_obsidian_forge" },
+        "facing=east,lit=true":   { "model": "ultimatesword:block/lit_obsidian_forge", "y": 90 },
+        "facing=south,lit=true":   { "model": "ultimatesword:block/lit_obsidian_forge", "y": 180 },
+        "facing=west,lit=true":   { "model": "ultimatesword:block/lit_obsidian_forge", "y": 270 }
+    }
+}

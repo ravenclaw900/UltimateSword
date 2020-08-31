@@ -1,0 +1,46 @@
+modLoader="javafml" #mandatory
+
+loaderVersion="[31,)" #mandatory
+
+issueTrackerURL="https://github.com/ravenclaw900/UltimateSword/issues" #optional
+
+[[mods]] #mandatory
+
+modId="ultimatesword" #mandatory
+
+version="1.15.2-1.0.0" #mandatory
+
+displayName="Ultimate Sword Mod" #mandatory
+
+logoFile="logo.png" #optional
+
+authors="Createch_472" #optional
+
+#mandatory
+description='''
+This mod adds an ultimate sword, which can one-hit-kill anything, ultimate armor, which gives you really, really strong protection, and all the tools needed to make them.
+'''
+
+[[dependencies.ultimatesword]] #optional
+
+    modId="forge" #mandatory
+
+    mandatory=true #mandatory
+
+    versionRange="[31,)" #mandatory
+
+    ordering="NONE"
+
+    side="BOTH"
+
+[[dependencies.ultimatesword]]
+
+    modId="minecraft"
+
+    mandatory=true
+
+    versionRange="[1.15.2]"
+
+    ordering="NONE"
+
+    side="BOTH"

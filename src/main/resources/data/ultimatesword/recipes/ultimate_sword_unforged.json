@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "u",
+    "u",
+    "r"
+  ],
+  "key":
+  {
+    "r":
+    {
+      "item": "ultimatesword:diamond_rod"
+    },
+    
+    "u":
+    {
+      "item": "ultimatesword:ultimate_shard"
+    }
+  },
+  "result":
+  {
+    "item": "ultimatesword:ultimate_sword_unforged",
+    "count": 1
+  }
+}

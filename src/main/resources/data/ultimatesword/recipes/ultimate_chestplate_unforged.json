@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "uuu",
+    "u u"
+  ],
+  "key":
+  {
+    "u":
+    {
+      "item": "ultimatesword:ultimate_shard"
+    }
+  },
+  "result":
+  {
+    "item": "ultimatesword:ultimate_helmet_unforged",
+    "count": 1
+  }
+}

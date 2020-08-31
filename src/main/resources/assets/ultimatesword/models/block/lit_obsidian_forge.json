@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "ultimatesword:blocks/obsidian_forge_top",
+        "front": "ultimatesword:blocks/lit_obsidian_forge_front",
+        "side": "ultimatesword:blocks/obsidian_forge_side"
+    }
+}

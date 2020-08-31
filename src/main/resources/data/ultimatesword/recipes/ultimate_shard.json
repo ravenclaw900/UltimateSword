@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "ultimatesword:ultimate_ore"
+  },
+  "result": "ultimatesword:ultimate_shard",
+  "experience": 2.0,
+  "cookingtime": 200
+}
